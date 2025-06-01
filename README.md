@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🇵🇱 I'm from Kraków, Poland<br><br>🧠 I'm building DevOps & robotics systems from scratch – code to hardware<br><br>📚 I'm currently learning ROS2, PX4, CI/CD, edge AI, and advanced Linux<br><br>⚡ In my free time I hike, design systems, and train calisthenics</p>
+<p align="left">🇵🇱 Poland<br>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">UAV Simulation System: https://github.com/Mayyyk/UAV_Simulation_System<br><br>Linux Scripts Toolkit: https://github.com/Mayyyk/linux-lab<br><br>F1 Tracker: https://github.com/Mayyyk/f1-tracker<br><br>Nasa Mission Launcher: https://github.com/Mayyyk/nasa-mission</p>
+<p align="left">Simracing logbook: https://github.com/Mayyyk/simracing_logbook<br><br>F1 Tracker: https://github.com/Mayyyk/f1-tracker<br><br>Nasa Mission Launcher: https://github.com/Mayyyk/nasa-mission</p>
 
 ###
 
