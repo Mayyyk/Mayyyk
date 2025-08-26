@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Simracing logbook: https://github.com/Mayyyk/simracing_logbook<br><br>F1 Tracker: https://github.com/Mayyyk/f1-tracker<br><br>Nasa Mission Launcher: https://github.com/Mayyyk/nasa-mission</p>
+<p align="left">Nasa Mission Launcher: https://github.com/Mayyyk/nasa-mission</p>
 
 ###
 
